@@ -13,11 +13,20 @@ Integrating the Cedarville University COVID-19 Discord Bot into your desired Dis
 
 ## Commands
 - `!covid` - Displays the time of last update and the total number of active student cases.
+
     #### **Options:**
-        -a - Displays the time of last update, the total number of active student cases, the number of student cases on campus, and the student number of cases off campus.
+    -a -- Displays the time of last update, the total number of active student cases, the number of student cases on campus, and the student number of cases off campus.
+    
+    #### **Usage:**
+    `!covid [OPTIONS]`
+
 - `!binaryCount` - Displays the time of last update and the total number of active student cases in binary number format.
+
     #### **Options:**
-        -a - Displays the time of last update, the total number of active student cases, the number of student cases on campus, and the student number of cases off campus in binary number format.
+    -a -- Displays the time of last update, the total number of active student cases, the number of student cases on campus, and the student number of cases off campus in binary number format.
+
+    #### **Usage:**
+    `!binaryCount [OPTIONS]`
 
 ## Daily Quote
 > *There is no use in going back to yesterday, because I was a different person then.*
